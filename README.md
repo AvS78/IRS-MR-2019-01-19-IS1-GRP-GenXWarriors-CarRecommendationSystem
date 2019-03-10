@@ -45,52 +45,7 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 
 `<Github File Link>` : 
 
-EXECUTIVE SUMMARY	4
-PROBLEM	5
-DEFINITION	5
-DESCRIPTION	5
-SCOPING FOR THE PROJECT	5
-Inclusions	5
-Business	5
-Technical	6
-Exclusions	6
-SOLUTION	7
-KNOWLEDGE DISCOVERY & ACQUISITION	7
-Table 1: Female drivers a CF_features_economy = 1	7
-KNOWLEDGE STRUCTURING – DEPENDENCY DIAGRAM	8
-KNOWLEDGE MODELLING & REPRESENTATION	9
-Buying budget behaviour and calculation: Derived Rules	9
-Table 2: Mapping of Age to CF 70/30	9
-Certainty factors	10
-Table 3: Certainty factor for the car recommender system	10
-User inputs:	10
-Table 4: User inputs table for the car recommender system	11
-Car recommendation system application outputs:	11
-Defined Rules	11
-Example 1: user survey derived CF recommendation	11
-Table 5: >50 years old users car make preference	11
-Example 2: user survey derived CF recommendation	11
-Table 6: Males prefer safety and security.	12
-Table 7: Flowchart for Rule Definition engine to update the Certainty Factor	14
-CAR RECOMMENDATION SYSTEM OUTPUTS	14
-Table 8: Output setup for the car recommendation system (in current version)	15
-SYSTEM DESIGN:	15
-SYSTEM ARCHITECTURE CONSIDERATIONS:	15
-INPUTS & OUTPUT DIALOGUE SCREENS	16
-USER INPUT FORM	16
-RECOMMENDATION SCREEN	16
-PROJECT CRITICAL ANALYSIS	17
-KEY SURVEY AND EXPERT FINDINGS	17
-FUNCTIONALITY AND SYSTEM SHORT COMINGS, PENDING ISSUES	17
-SYSTEM LIMITATIONS	17
-FUTURE PROJECT ENHANCEMENTS	19
-SCOPE ENHANCEMENTS	19
-FUNCTIONAL ENHANCEMENTS	19
-TECHNICAL ENHANCEMENTS	19
-REFERENCES	20
-APPENDICES	21
-APPENDIX A: SURVEY	21
-
+TABLE OF CONTENTS
 EXECUTIVE SUMMARY	4
 PROBLEM	5
 DEFINITION	5
