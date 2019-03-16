@@ -36,12 +36,23 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Ajay Vikram Singh | A0020986B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0384189@u.nus.edu;ajayvsingh@gmail.com |
-| Rahul Jalan| A0195299H | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0384930@u.nus.edu;jalan.rahul@gmail.com |
+| Ajay Vikram Singh | A0020986B | All project items | e0384189@u.nus.edu;ajayvsingh@gmail.com |
+| Rahul Jalan| A0195299H | All project items | e0384930@u.nus.edu;jalan.rahul@gmail.com |
+
+## SECTION 4 :  PROJECT Scope
+
+Business case definition
+Business Problem identification
+Problem Scoping
+Expert interview 
+User Survey
+Survey analytics
+Knowledge acquisition, structuring, & modelling
+System Design
+Test case definition
 
 
-
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 4 : Table of Content
 
 `<Github File Link>` : 
 
