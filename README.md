@@ -12,7 +12,7 @@ Project:Car Recommendation system
 ## Car Recommendation System - for Singapore buyers 
 
 
-<img src= https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--67vgDj4s--%2Fc_scale%2Cf_auto%2Cfl_progressive%2Cq_80%2Cw_800%2Fwtfn7bf8hejhonlgkoh1.jpg&imgrefurl=https%3A%2F%2Fjalopnik.com%2Fhow-to-avoid-these-first-time-new-car-buyer-mistakes-1778159802&docid=PtXAkUpGq34efM&tbnid=9N0fi4w6VPsylM%3A&vet=10ahUKEwjwrKn6-4XhAhWIqo8KHZIxDcYQMwiFASgUMBQ..i&w=800&h=464&client=safari&bih=716&biw=1440&q=car%20buyer&ved=0ahUKEwjwrKn6-4XhAhWIqo8KHZIxDcYQMwiFASgUMBQ&iact=mrc&uact=8 />
+<img align="right" src='https://i.kinja-img.com/gawker-media/image/upload/wtfn7bf8hejhonlgkoh1.jpg' width=100%>
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
