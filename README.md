@@ -7,9 +7,6 @@ Group: GenXWarriors
 Project:Car Recommendation system
 ---
 
-### <<<<<<<<<<<<<<<<<<<< Start of Template >>>>>>>>>>>>>>>>>>>>
-
----
 
 ## SECTION 1 : PROJECT TITLE
 ## Car Recommendation System - for Singapore buyers 
@@ -30,6 +27,7 @@ Our project, New car buy recommendation system, is an effort to improve the car 
 We used a combination of expert interviews as well as carefully designed surveys to define a set of rules that help make optimal decision on car buying. To capture the fuzziness in buying decision, we reinforced thus defined/mined rules with the concept of certainty factor.
 We used the KIE for user input capture, KIE DROOLS for decision rule, and additionally Orange pack as well as Excel, Tableau and Google sheet analytics for offline data exploration and data mining.
 The solution we have presented is a first attempt to bring objectivity and optimality to car the decisioning process. Hence, we prepared a roadmap to capture further objectivity and augmented intelligence in car buying process.
+
 Our achievement is happy Singapore car buyers, where they find the best ride suited to their needs and aspirations that the money they can realistically afford!
 ---
 ## SECTION 3 :  PROJECT CONTRIBUTION
@@ -39,7 +37,7 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 | Ajay Vikram Singh | A0020986B | All project items | e0384189@u.nus.edu;ajayvsingh@gmail.com |
 | Rahul Jalan| A0195299H | All project items | e0384930@u.nus.edu;jalan.rahul@gmail.com |
 
-## SECTION 4 :  PROJECT Scope
+## SECTION 4 :  Project Scope
 
 Business case definition
 Business Problem identification
@@ -50,9 +48,22 @@ Survey analytics
 Knowledge acquisition, structuring, & modelling
 System Design
 Test case definition
+Project Roadmap
 
 
-## SECTION 4 : Table of Content
+## SECTION 5 : Project Pitch Video
+
+`<Github File Link>` : 
+
+## SECTION 6 : User Guide
+
+`<Github File Link>` : 
+
+## SECTION 7 : Project Report 
+
+`<Github File Link>` : 
+
+## SECTION 8 : Survey 
 
 `<Github File Link>` : 
 
@@ -112,7 +123,7 @@ APPENDIX D: GLOSSARY	28
 
 ---
 
-### <<<<<<<<<<<<<<<<<<<< End of ReadMe >>>>>>>>>>>>>>>>>>>>
+### 
 
 ---
 
