@@ -36,18 +36,9 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 | Ajay Vikram Singh | A0020986B | All project items | e0384189@u.nus.edu;ajayvsingh@gmail.com |
 | Rahul Jalan| A0195299H | All project items | e0384930@u.nus.edu;jalan.rahul@gmail.com |
 
-## SECTION 4 :  Project Scope
+## SECTION 4 :  Business Case
 
-Business case definition
-Business Problem identification
-Problem Scoping
-Expert interview 
-User Survey
-Survey analytics
-Knowledge acquisition, structuring, & modelling
-System Design
-Test case definition
-Project Roadmap
+[Business case](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/business%20case) captures the idea, it's uniqueness, project financials, and net present value for the idea valuation.
 
 
 ## SECTION 5 : Project Pitch Video
@@ -61,65 +52,24 @@ Project Roadmap
 ## SECTION 7 : Project Report 
 
 [Project Report](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/Report)
-captures the detais of the project from idea to execution. It includes executive summary, Design, primary research, Knowledge structuring, system design, critique, and roadmap (we have only touched the surface).
+captures the detais of the project from idea to execution. Details captured are:
+
+
+Business case definition
+Business Problem identification
+Problem Scoping
+Expert interview 
+User Survey
+Survey analytics
+Knowledge acquisition, structuring, & modelling
+System Design
+Test case definition
+Project Roadmap (we covered only the surface)
+
 
 ## SECTION 8 : Survey 
 
-`<Github File Link>` : 
-
-TABLE OF CONTENTS
-EXECUTIVE SUMMARY	4
-PROBLEM	5
-DEFINITION	5
-DESCRIPTION	5
-SCOPING FOR THE PROJECT	5
-Inclusions	5
-Business	5
-Technical	6
-Exclusions	6
-SOLUTION	7
-KNOWLEDGE DISCOVERY & ACQUISITION	7
-Table 1: Female drivers a CF_features_economy = 1	7
-KNOWLEDGE STRUCTURING – DEPENDENCY DIAGRAM	8
-KNOWLEDGE MODELLING & REPRESENTATION	9
-Buying budget behaviour and calculation: Derived Rules	9
-Table 2: Mapping of Age to CF 70/30	9
-Certainty factors	10
-Table 3: Certainty factor for the car recommender system	10
-User inputs:	10
-Table 4: User inputs table for the car recommender system	11
-Car recommendation system application outputs:	11
-Defined Rules	11
-Example 1: user survey derived CF recommendation	11
-Table 5: >50 years old users car make preference	11
-Example 2: user survey derived CF recommendation	11
-Table 6: Males prefer safety and security.	12
-Table 7: Flowchart for Rule Definition engine to update the Certainty Factor	14
-CAR RECOMMENDATION SYSTEM OUTPUTS	14
-Table 8: Output setup for the car recommendation system (in current version)	15
-SYSTEM DESIGN:	15
-SYSTEM ARCHITECTURE CONSIDERATIONS:	15
-INPUTS & OUTPUT DIALOGUE SCREENS	16
-USER INPUT FORM	16
-RECOMMENDATION SCREEN	16
-PROJECT CRITICAL ANALYSIS	17
-KEY SURVEY AND EXPERT FINDINGS	17
-FUNCTIONALITY AND SYSTEM SHORT COMINGS, PENDING ISSUES	17
-SYSTEM LIMITATIONS	17
-FUTURE PROJECT ENHANCEMENTS	19
-SCOPE ENHANCEMENTS	19
-FUNCTIONAL ENHANCEMENTS	19
-TECHNICAL ENHANCEMENTS	19
-REFERENCES	20
-APPENDICES	21
-APPENDIX A: SURVEY	21
-Survey Form:	21
-Survey raw data:	22
-Survey cleaned data:	23
-Survey Google analytics report	23
-APPENDIX B: CAR RECOMMENDATION SYSTEM USER GUIDE	24
-APPENDIX C: SAMPLE SCENARIO	27
-APPENDIX D: GLOSSARY	28
+`<Github File Link>`
 
 ---
 
