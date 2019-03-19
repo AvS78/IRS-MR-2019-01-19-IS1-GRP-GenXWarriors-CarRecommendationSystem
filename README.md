@@ -56,7 +56,7 @@ Project Roadmap
 
 ## SECTION 6 : User Guide
 
-<[user guide] (https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/user%20guide)> 
+[users guide](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/user%20guide)
 
 ## SECTION 7 : Project Report 
 
