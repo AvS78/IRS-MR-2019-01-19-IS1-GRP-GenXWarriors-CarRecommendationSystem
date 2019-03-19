@@ -60,7 +60,8 @@ Project Roadmap
 
 ## SECTION 7 : Project Report 
 
-`<Github File Link>` : 
+[Project Report](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/Report)
+captures the detais of the project from idea to execution. It includes executive summary, Design, primary research, Knowledge structuring, system design, critique, and roadmap (we have only touched the surface).
 
 ## SECTION 8 : Survey 
 
