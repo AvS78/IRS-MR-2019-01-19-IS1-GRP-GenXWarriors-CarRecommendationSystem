@@ -43,7 +43,7 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 
 ## SECTION 5 : Project Pitch Video
 
-`<Github File Link>` : 
+[Aplication introduction and walkthrough](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/video%20-%20app%20introduction). We capture the motivation for idea, execution details, and finally a demo of the system user inputs and output based on the screens frames
 
 ## SECTION 6 : User Guide
 
