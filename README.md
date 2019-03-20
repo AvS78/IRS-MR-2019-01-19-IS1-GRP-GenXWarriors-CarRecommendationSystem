@@ -77,7 +77,7 @@ Project Roadmap (we covered only the surface)
 
 ## Section 10: MVP code
 
-[System Code] ((https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/system%20code) captures the Minimum viable product (KIE based).
+[System Code] (https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/system%20code) captures the Minimum viable product (KIE based).
 
 ---
 
