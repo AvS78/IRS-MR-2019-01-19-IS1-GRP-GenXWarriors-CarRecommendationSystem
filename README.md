@@ -73,8 +73,11 @@ Project Roadmap (we covered only the surface)
 
 ## SECTION 9 : Tendering document 
 
-[Tender](https://) captures the application dev, ops and maintenance details to build a commercial application towards commercial launch.
+[Build Deploy Operate Tender](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/Build%20Deploy%20Operate%20Tendering) captures the application dev, ops and maintenance details to build a commercial application towards commercial launch.
 
+## SECTION 10 : MVP code 
+
+[System Code](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/system%20code) captures the application MVP development based in KIE.
 ---
 
 ### 
