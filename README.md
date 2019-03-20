@@ -47,7 +47,7 @@ Our achievement is happy Singapore car buyers, where they find the best ride sui
 
 ## SECTION 6 : User Guide
 
-[users guide](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/user%20guide)
+[users guide](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/user%20guide) captures the system user (mobile/browser) inputs and the output recommendation screens. We also discuss a sample input, output recommendation for those inputs and reasoning for the output.
 
 ## SECTION 7 : Project Report 
 
