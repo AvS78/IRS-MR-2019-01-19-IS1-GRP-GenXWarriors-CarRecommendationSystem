@@ -71,6 +71,10 @@ Project Roadmap (we covered only the surface)
 
 [Survey](https://github.com/AvS78/IRS-MR-2019-01-19-IS1-GRP-GenXWarriors-CarRecommendationSystem/tree/master/survey) includes expert interview as well as primary research carried through googleforms survey. Raw survey data points, synthesized data points as used for data mining along with survey form are archived here.
 
+## SECTION 9 : Tendering document 
+
+[Tender](https://) captures the application dev, ops and maintenance details to build a commercial application towards commercial launch.
+
 ---
 
 ### 
