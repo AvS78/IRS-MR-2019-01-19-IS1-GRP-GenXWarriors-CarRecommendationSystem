@@ -85,5 +85,5 @@ Project Roadmap (we covered only the surface)
 
 ---
 
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Masters in Intelligent Systems (Masters in Technology Course) and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
+** Project undertaken, Car Recommender, is a coursework project for Masters in Intelligent Systems (Masters in Technology Course) offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
