@@ -17,10 +17,9 @@ Project:Car Recommendation system
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-We, Singapore citizens and residents, are known globally for our 5 C desires- car, condo, cash, credit card, and country club. Car ownership in Singapore for Singaporean Residents is a cherished aspiration. [Ref 1] captures the sentiment in international press. Closer home, Singaporean love affair for car ownership is evident from weekend newspaper advertisements.
-However, Car ownership is a costly affair for us, primarily because of the need to control traffic, ranking Singapore as one of the costliest places to own and maintain a car.<br />
-Our “love” affair with car ownership is so skewed that MAS (monetary authority of Singapore) has to step in to enforce financial prudence in Singaporeans. <br />
-A wide range of choices of car brands offering a bewildering range of possibilities across ride, comfort, safety, gadgetry etc are available to Singaporeans. This is thanks to our open and services driven economy.<br />
+We, Singapore citizens and residents, are known globally for our 5 C desires- car, condo, cash, credit card, and country club. Car ownership in Singapore for Singaporean Residents is a cherished aspiration. Singaporean love affair for car ownership is evident from weekend newspaper advertisements as well as time to time international press coverage.<br />
+However, Car ownership is a costly affair for us, primarily because of the need to control traffic, ranking Singapore as one of the costliest places to own and maintain a car. Our “love” affair with car ownership is so skewed that MAS (monetary authority of Singapore) has to step in to enforce financial prudence in Singaporeans. <br />
+Additionally, A wide range of choices of car brands offering a bewildering range of possibilities across ride, comfort, safety, gadgetry etc are available to Singaporeans. This is thanks to our open and services driven economy.<br />
 Above all aspects, makes the buying decision process a very confusing and suboptimal affair, leaving much room for improvement.<br />
 Our project, New car buy recommendation system, is an effort to improve the car buy decisioning system in Singapore. Our recommendation system today suggests car budget and car make/type to look for, thus narrowing down the choice process quite significantly.<br />
 We used a combination of expert interviews as well as carefully designed surveys to define a set of rules that help make optimal decision on car buying. To capture the fuzziness in buying decision, we reinforced thus defined/mined rules with the concept of certainty factor.<br />
